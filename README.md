@@ -1,6 +1,6 @@
 ### Hi there! Welcome to my GitHub profile 👋
 
-I am a third-year student pursuing Electronics Engineering at IIT (BHU). Hailing from the vibrant city of Jaipur, Rajasthan, I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
+I am a third-year student pursuing Electronics Engineering at IIT (BHU). I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
 
 
 🔭 I’m exploring new technologies and brushing up my existing skills

@@ -2,6 +2,13 @@
 
 I am a third-year student pursuing Electronics Engineering at IIT (BHU). Hailing from the vibrant city of Jaipur, Rajasthan, I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
 
+ 
+👯 I’m looking to collaborate on exciting projects!
+
+📫 Mail me at: avani.jangid18@gmail.com
+
+😄 Pronouns: She/Her
+
 ⚡ Fun fact about me: I love playing the keyboard 🎹
 
 <!--
@@ -16,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love playing the keyboard 🎹
+- ⚡ Fun fact: ...
 -->

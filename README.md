@@ -2,7 +2,9 @@
 
 I am a third-year student pursuing Electronics Engineering at IIT (BHU). Hailing from the vibrant city of Jaipur, Rajasthan, I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
 
- 
+
+🔭 I’m exploring new technologies and brushing up my existing skills
+
 👯 I’m looking to collaborate on exciting projects!
 
 📫 Mail me at: avani.jangid18@gmail.com

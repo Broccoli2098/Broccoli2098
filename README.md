@@ -1,6 +1,7 @@
 ### Hi there! Welcome to my GitHub profile 👋
 
 I am a third-year student pursuing Electronics Engineering at IIT (BHU). Hailing from the vibrant city of Jaipur, Rajasthan, I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
+
 ⚡ Fun fact about me: I love playing the keyboard 🎹
 
 <!--

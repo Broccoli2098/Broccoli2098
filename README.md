@@ -1,7 +1,6 @@
-### Hi there 👋
-I am Avani Jangid, from Jaipur, India.
+### Hi there! Welcome to my Github profile 👋
 
-I am a sophomore in IIT BHU (Varanasi).
+I am a third-year student pursuing Electronics Engineering at IIT (BHU). Hailing from the vibrant city of Jaipur, Rajasthan, I am enthusiastic about exploring the fascinating world of programming and continuously expanding my skill set.
 
 <!--
 **Broccoli2098/Broccoli2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
